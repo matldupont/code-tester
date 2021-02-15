@@ -1,0 +1,13 @@
+{
+  "name": "code-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mat Dupont <dupont.mat.l@gmail.com> (https://matdupont.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "26.6.3"
+  },
+  "scripts": {
+    "test": "yarn jest"
+  }
+}
