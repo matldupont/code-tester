@@ -1,1 +1,1 @@
-# Tooling for running simple code tests
+# Tooling to run simple code tests
